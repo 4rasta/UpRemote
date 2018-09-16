@@ -1,0 +1,8 @@
+﻿  lab_5.cpp
+c:\users\4rst\source\repos\lab_5\lab_5\lab_5.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\4rst\source\repos\lab_5\lab_5\lab_5.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\4rst\source\repos\lab_5\lab_5\lab_5.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\4rst\source\repos\lab_5\lab_5\lab_5.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\4rst\source\repos\lab_5\lab_5\lab_5.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\4rst\source\repos\lab_5\lab_5\lab_5.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+  lab_5.vcxproj -> c:\Users\4rst\source\repos\lab_5\Debug\lab_5.exe
